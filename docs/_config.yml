@@ -22,8 +22,8 @@ title: National Trust Dog Blog
 email: steve.p.suppe.apps@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A little information blog on dog-friendly National Trusts in the UK. Includes a map with extracted
-	information from every National Trust website, so you don't have to visit every one to learn details
-	of bringing your pup. Also includes a personal review of every National Trust website we've visited
+  information from every National Trust website, so you don't have to visit every one to learn details
+  of bringing your pup. Also includes a personal review of every National Trust website we've visited
 baseurl: "/ssuppe.github.io/" # the subpath of your site, e.g. /blog
 url: "ssuppe.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
