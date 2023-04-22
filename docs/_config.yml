@@ -30,7 +30,8 @@ twitter_username:
 github_username:  
 
 # Build settings
-theme: minima
+# theme: minima
+remote_theme: aterenin/minima-reboot
 plugins:
   - jekyll-feed
 
